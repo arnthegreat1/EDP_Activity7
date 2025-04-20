@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|c:\\for school\\even driven programming\\bonaobra_act7_edp\\bonaobra_act7_edp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\editemployeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\editemployeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\editcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\editcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\editcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\editcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\editproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\editproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\editproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\editproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addcustomerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addcustomerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addemployeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addemployeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\bonaobra_act7_edp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283E0EB-1DA3-40D7-A853-2BEE8C7B26F8}|Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP.csproj|solutionrelative:bonaobra_act7_edp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\Form1.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\Form1.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\Form1.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\Form1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv3QAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:27:00.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditEmployeeForm.Designer.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditEmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\EditEmployeeForm.Designer.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditEmployeeForm.Designer.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\EditEmployeeForm.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:10:05.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditEmployeeForm.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditEmployeeForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\EditEmployeeForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditEmployeeForm.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\EditEmployeeForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:05:28.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditEmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditEmployeeForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\EditEmployeeForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditEmployeeForm.cs [Design]",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\EditEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:02:50.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\Form1.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\Form1.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\Form1.cs [Design]",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:07:29.864Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditCustomerForm.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditCustomerForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\EditCustomerForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditCustomerForm.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\EditCustomerForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:51:54.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditCustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditCustomerForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\EditCustomerForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditCustomerForm.cs [Design]",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\EditCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:46:59.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditProductForm.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditProductForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\EditProductForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditProductForm.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\EditProductForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:05:23.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditProductForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\EditProductForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\EditProductForm.cs [Design]",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\EditProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:03:45.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddEmployeeForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddEmployeeForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddEmployeeForm.cs [Design]",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:26:35.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCustomerForm.Designer.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddCustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddCustomerForm.Designer.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddCustomerForm.Designer.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddCustomerForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:35:19.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCustomerForm.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddCustomerForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddCustomerForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddCustomerForm.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddCustomerForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:07:40.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddEmployeeForm.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddEmployeeForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddEmployeeForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddEmployeeForm.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddEmployeeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:31:20.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEmployeeForm.Designer.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddEmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddEmployeeForm.Designer.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddEmployeeForm.Designer.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddEmployeeForm.Designer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:41:16.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddCustomerForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddCustomerForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddCustomerForm.cs [Design]",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:05:10.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddProductForm.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddProductForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddProductForm.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddProductForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:22:53.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddProductForm.Designer.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddProductForm.Designer.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddProductForm.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:25:13.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\AddProductForm.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\AddProductForm.cs [Design]",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\AddProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:22:40.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bonaobra_Act7_EDP\\Form1.Designer.cs",
+              "ToolTip": "C:\\For School\\Even Driven Programming\\Bonaobra_Act7_EDP\\Bonaobra_Act7_EDP\\Form1.Designer.cs",
+              "RelativeToolTip": "Bonaobra_Act7_EDP\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwEsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:09:19.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
